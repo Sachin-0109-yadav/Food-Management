@@ -1,4 +1,4 @@
-# res
+# restaurant
 Restaurant OR Food Website ⚛️ 💡⚡✨
 
 
